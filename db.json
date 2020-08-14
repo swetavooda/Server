@@ -1,0 +1,36 @@
+{
+    "suicide":[
+  {
+    "name":"Arrival Information",
+    "id":1,
+    "type":"text",
+    "description":"means of transportation and number of personnel present"
+  },
+  {
+    "name":"Scene description",
+    "id":1,
+    "type":"text",
+    "description":"Observation on condition of crime area, major structures, any smells etc."
+  },
+  {
+    "name":"Crime Scene Panaroma Image",
+    "id":2,
+    "type":"button",
+    "description":""
+  },
+  {
+    "name":"Instrument used for Killing",
+    "id":2,
+    "type":"button",
+    "description":""
+  },
+  {
+    "name":"Image of blood stains available?",
+    "id":3,
+    "type":"radio",
+    "description":"Capture blodd stains Image"
+  }
+  
+]
+
+}
