@@ -32,5 +32,55 @@
   }
   
 ]
+        "cybercrime":[
+        {
+            "name":"Select Type of Crime",
+            "id":4,
+            "type":"listpicker",
+            "list":["Email Fraud","Crypto Currency Theft or Hack","Bank Fraud","Fraudulent Company","Hacking Incident","Malware / Spyware","Stock / Share Fraud","Phone / SMS","Other"]
+        },
+        {
+            "name":"Select Source of Crime",
+            "id":4,
+            "type":"listpicker",
+            "list":["Amazon","Facebook","BEC Fraud","Dating Apps","Ebay","Email","Instagram","LinkedIn","OLX","Phone/SMS","WhatsApp","SnapChat","Other"]
+        },
+        {
+            "name":"Name of Victim",
+            "id":1,
+            "type":"text",
+            "description":""
+        },
+        {
+            "name":"Victim's Email Id",
+            "id":1,
+            "type":"text",
+            "description":""
+        },
+        {
+            "name":"Victim's Phone Number",
+            "id":1,
+            "type":"text",
+            "description":""
+        },
+        {
+            "name":"Suspects Mobile Number",
+            "id":1,
+            "type":"text",
+            "description":""
+        },
+        {
+            "name":"Suspects Website",
+            "id":1,
+            "type":"text",
+            "description":""
+        },
+        {
+            "name":"Details About Incident",
+            "id":1,
+            "type":"text",
+            "description":""
+        }
+    ]
 
 }
