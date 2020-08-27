@@ -81,7 +81,24 @@
             "type":"text",
             "description":""
         }
-    ]
+    ],
+    "fir":[
+        {
+            "name":"FIR 1",
+            "id":1,    
+            "description":"this is FIR 1 description"
+        },
+        {
+            "name":"FIR 2",
+            "id":1,    
+            "description":"this is FIR 2 description"
+        },
+        {
+            "name":"FIR 3",
+            "id":1,    
+            "description":"this is FIR 3 description"
+        }
+    ]       
 
 }
 
